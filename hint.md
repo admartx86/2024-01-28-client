@@ -23,13 +23,13 @@ h1 {
 //script.js
 
 function addButton () {
-    const button = document.createElement("button");
-    button.innerHTML = "Click me!";
-    button.onclick = () => {
+    const BUTTON = document.createElement("button");
+    BUTTON.innerHTML = "Click me!";
+    BUTTON.onclick = () => {
         console.log("Button clicked!");
     };
-    const div = document.getElementById("addButton");
-    div.appendChild(button);
+    const DIV = document.getElementById("addButton");
+    DIV.appendChild(BUTTON);
 }
 
 addButton();
