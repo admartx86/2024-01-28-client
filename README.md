@@ -1,5 +1,5 @@
-# 2024-01-28-client
+🔰 Practice
 
-A client for coding practice.
+Drill dom manipulation.
 
 ✔ Best Time 3:12.
